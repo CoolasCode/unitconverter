@@ -1,0 +1,19 @@
+.imgDiv {
+    width: 100%;
+}
+
+.imgDiv img {
+    width: 100%;
+}
+
+.col-12 {
+    margin-top: 10px !important;
+}
+
+.row {
+    align-items: center;
+}
+
+p {
+    word-spacing: 2px;
+}
